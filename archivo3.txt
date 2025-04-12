@@ -1,0 +1,2 @@
+linea 1 archivo 3
+linea 2 archivo 3
